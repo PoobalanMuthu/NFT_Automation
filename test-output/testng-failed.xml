@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite_seq]">
+  <test name="S02_Login_As_Existing_User-Run1(failed)">
+    <parameter name="Locality" value="Hub"/>
+    <parameter name="appType" value="Native"/>
+    <parameter name="ExecutionType" value="Sequential"/>
+    <parameter name="testname1" value="S02_Login_As_Existing_User"/>
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="testname" value="S02_Login_As_Existing_User-Run1"/>
+    <parameter name="toolName" value="Selenium"/>
+    <classes>
+      <class name="com.mop.qa.test.regression.Test_NFT_S02_Login_As_Existing_User">
+        <methods>
+          <include name="executeSuite"/>
+          <include name="Test_NFT_S02_Login_As_Existing_User_TestCase"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.regression.Test_NFT_S02_Login_As_Existing_User -->
+    </classes>
+  </test> <!-- S02_Login_As_Existing_User-Run1(failed) -->
+</suite> <!-- Failed suite [Suite_seq] -->

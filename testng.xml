@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <parameter name="servicePortalUrl" value="https://svt-serviceportal.sdpamp.com/"/>
+  <parameter name="userName" value="Srividya.Ramaswamy@team.telstra.com"/>
+  <parameter name="password" value="Test@1243"/>
+  <parameter name="payLoad" value="https://en.wikipedia.org/wiki/Leon_Trotsky_thats_me/SatishTelstra"/>
+  <parameter name="name_S01" value="Srividya.Ramaswamy@team.telstra.com"/>
+  <parameter name="password_S01" value="Test@1243"/>
+  <parameter name="confirmPassword_S01" value="Test@1243"/>
+
+  
+    <classes>
+    <class name="com.mop.qa.test.regression.Test_NFT_End_to_End_Testing"/>
+<!--       <class name="com.mop.qa.test.regression.Test_NFT_S01_New_Registration"/>
+      <class name="com.mop.qa.test.regression.Test_NFT_S08_see_Payload_in_Historical_test_of_particular_test"/>
+      <class name="com.mop.qa.test.regression.Test_NFT_S09_see_Test_Histories_from_TestHistoryCard"/>
+      <class name="com.mop.qa.test.regression.Test_NFT_S04_O2A_Stream_user_TestRun"/>
+      <class name="com.mop.qa.testrunner.TestRunner"/>
+      <class name="com.mop.qa.test.regression.Test_NFT_S14_see_All_The_Metrics_As_an_AdminSSPUser"/>
+      <class name="com.mop.qa.test.regression.Test_NFT_End_to_End_Testing"/>
+      <class name="com.mop.qa.test.regression.Test_NFT_S11_see_Any_Aborted_Tests_from_TestHistory"/>
+      <class name="com.mop.qa.test.regression.Test_NFT_S15_execute_Test_from_Any_Stream"/>
+      <class name="com.mop.qa.test.regression.Test_NFT_S13_check_GeneralMetrics_in_Portal_Insights_As_a_ExistingSSPUser"/>
+      <class name="com.mop.qa.test.regression.Test_NFT_S03_Login_As_O2A_User_OtherStreams_GreyedOut"/>
+      <class name="com.mop.qa.test.regression.Test_NFT_S05_O2A_Stream_user_Current_Test_Results"/>
+      <class name="com.mop.qa.test.regression.Test_NFT_S9_SeeAnyAbortedTest_From_TestHistoryPage_As_an_Existing_SSP_User"/>
+      <class name="com.mop.qa.test.regression.Test_NFT_S10_stopTest_Once_Launched_withoutCheckPayload"/>
+      <class name="com.mop.qa.test.regression.Test_NFT_S12_Password_Reset"/>
+      <class name="com.mop.qa.test.regression.Test_NFT_S06_O2A_Stream_user_View_Edit_Payload"/>
+      <class name="com.mop.qa.test.regression.Test_NFT_S02_Login_As_Existing_User"/>
+      <class name="com.mop.qa.pageobject.NFT_ServicePortal"/>
+      <class name="com.mop.qa.test.regression.Test_NFT_S07_see_Result_of_Particular_Test_from_Outputs_TestHistoryPage"/> -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

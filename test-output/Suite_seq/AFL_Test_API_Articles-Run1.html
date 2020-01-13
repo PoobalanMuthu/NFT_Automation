@@ -1,0 +1,172 @@
+<html>
+<head>
+<title>TestNG:  AFL_Test_API_Articles-Run1</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>AFL_Test_API_Articles-Run1</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu May 09 14:56:58 IST 2019</td>
+</tr>
+<tr><td>Total time:</td><td>490 seconds (490572 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.mop.qa.test.regression.Test_AFL_Native_App_Regression.AFL_Test_API_Articles()'><b>AFL_Test_API_Articles</b><br>Test class: com.mop.qa.test.regression.Test_AFL_Native_App_Regression</td>
+<td><div><pre>org.openqa.selenium.WebDriverException: unknown error (Java heap space)  (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: &apos;3.7.1&apos;, revision: &apos;8a0099a&apos;, time: &apos;2017-11-06T21:01:39.354Z&apos;
+System info: host: &apos;LT104209&apos;, ip: &apos;10.252.154.142&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_201&apos;
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {agentPath: C:\Users\581395\AppData\Loc..., app: C:\Users\581395\AppData\Roa..., appiumVersion: 1.8.0, autoAcceptAlerts: false, autoDismissAlerts: false, autoGrantPermissions: false, autoWebview: false, automationName: XCUITest, bootstrapPath: C:\Users\581395\AppData\Loc..., bundleId: com.pulselive.ent.afllive, clearSystemFiles: true, desired: {agentPath: C:\Users\581395\AppData\Loc..., app: C:\Users\581395\AppData\Roa..., automationName: XCUITest, bootstrapPath: C:\Users\581395\AppData\Loc..., bundleId: com.pulselive.ent.afllive, clearSystemFiles: true, deviceName: iPhone 7, instrumentApp: true, newCommandTimeout: 200.0, noReset: true, platformName: iOS, platformVersion: 12.1.4, udid: 475cf39ebae403c0fcbaf83ac5b...}, device.category: PHONE, device.majorVersion: 12, device.manufacture: Apple, device.model: iPhone 6+, device.name: Telstra iPhone, device.os: iOS, device.screenSize: 1242x2208, device.serialNumber: 475cf39ebae403c0fcbaf83ac5b..., device.version: 12.1.4, deviceName: iPhone 7, deviceUDID: 475cf39ebae403c0fcbaf83ac5b..., dontGoHomeOnQuit: false, dontStopAppOnReset: false, fullReset: false, install.only.for.update: false, instrumentApp: true, javascriptEnabled: true, keystorePath: ~/.android/debug.keystore, locationServicesAuthorized: false, newCommandTimeout: 200.0, newSessionWaitTimeout: 300, noReset: true, platform: IOS, platformName: iOS, platformVersion: 12.1.4, projectName: , reportDirectory: reports, reportFormat: xml, reportUrl: C:\Users\581395\appiumstudi..., reservationDuration: 240, takeScreenshots: true, test.type: Mobile, testName: mobile test 05/09/19 02:57 PM, udid: 475cf39ebae403c0fcbaf83ac5b..., useKeystore: false, waitForDeviceTimeout: 120000}
+Session ID: 71e87c96-b24d-431c-a843-571a6bd1aa13
+*** Element info: {Using=xpath, value=(//*[@class=&apos;UIAView&apos; and ./*[@class=&apos;UIAView&apos;] and ./*[@class=&apos;UIAImage&apos;] and ./*[contains(text(),&apos;2019&apos;)] and ./*[@class=&apos;UIAStaticText&apos;]])[41] /*[@text and @class=&apos;UIAStaticText&apos;][2]}
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:231)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.execute(IOSDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:62)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:419)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:152)
+	at io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.findElementByXPath(IOSDriver.java:1)
+	at com.mop.qa.testbase.PageBase.getText(PageBase.java:1742)
+	at com.mop.qa.pageobject.AFL_NewsPage.extractArticleTitle(AFL_NewsPage.java:275)
+	at com.mop.qa.test.regression.Test_AFL_Native_App_Regression.AFL_Test_API_Articles(Test_AFL_Native_App_Regression.java:508)
+	at com.mop.qa.testrunner.TestRunner.main(TestRunner.java:167)
+... Removed 25 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1672788422", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1672788422'><pre>org.openqa.selenium.WebDriverException: unknown error (Java heap space)  (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: &apos;3.7.1&apos;, revision: &apos;8a0099a&apos;, time: &apos;2017-11-06T21:01:39.354Z&apos;
+System info: host: &apos;LT104209&apos;, ip: &apos;10.252.154.142&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_201&apos;
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {agentPath: C:\Users\581395\AppData\Loc..., app: C:\Users\581395\AppData\Roa..., appiumVersion: 1.8.0, autoAcceptAlerts: false, autoDismissAlerts: false, autoGrantPermissions: false, autoWebview: false, automationName: XCUITest, bootstrapPath: C:\Users\581395\AppData\Loc..., bundleId: com.pulselive.ent.afllive, clearSystemFiles: true, desired: {agentPath: C:\Users\581395\AppData\Loc..., app: C:\Users\581395\AppData\Roa..., automationName: XCUITest, bootstrapPath: C:\Users\581395\AppData\Loc..., bundleId: com.pulselive.ent.afllive, clearSystemFiles: true, deviceName: iPhone 7, instrumentApp: true, newCommandTimeout: 200.0, noReset: true, platformName: iOS, platformVersion: 12.1.4, udid: 475cf39ebae403c0fcbaf83ac5b...}, device.category: PHONE, device.majorVersion: 12, device.manufacture: Apple, device.model: iPhone 6+, device.name: Telstra iPhone, device.os: iOS, device.screenSize: 1242x2208, device.serialNumber: 475cf39ebae403c0fcbaf83ac5b..., device.version: 12.1.4, deviceName: iPhone 7, deviceUDID: 475cf39ebae403c0fcbaf83ac5b..., dontGoHomeOnQuit: false, dontStopAppOnReset: false, fullReset: false, install.only.for.update: false, instrumentApp: true, javascriptEnabled: true, keystorePath: ~/.android/debug.keystore, locationServicesAuthorized: false, newCommandTimeout: 200.0, newSessionWaitTimeout: 300, noReset: true, platform: IOS, platformName: iOS, platformVersion: 12.1.4, projectName: , reportDirectory: reports, reportFormat: xml, reportUrl: C:\Users\581395\appiumstudi..., reservationDuration: 240, takeScreenshots: true, test.type: Mobile, testName: mobile test 05/09/19 02:57 PM, udid: 475cf39ebae403c0fcbaf83ac5b..., useKeystore: false, waitForDeviceTimeout: 120000}
+Session ID: 71e87c96-b24d-431c-a843-571a6bd1aa13
+*** Element info: {Using=xpath, value=(//*[@class=&apos;UIAView&apos; and ./*[@class=&apos;UIAView&apos;] and ./*[@class=&apos;UIAImage&apos;] and ./*[contains(text(),&apos;2019&apos;)] and ./*[@class=&apos;UIAStaticText&apos;]])[41] /*[@text and @class=&apos;UIAStaticText&apos;][2]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:231)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.execute(IOSDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:62)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:419)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:152)
+	at io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.findElementByXPath(IOSDriver.java:1)
+	at com.mop.qa.testbase.PageBase.getText(PageBase.java:1742)
+	at com.mop.qa.pageobject.AFL_NewsPage.extractArticleTitle(AFL_NewsPage.java:275)
+	at com.mop.qa.test.regression.Test_AFL_Native_App_Regression.AFL_Test_API_Articles(Test_AFL_Native_App_Regression.java:508)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at com.mop.qa.testrunner.TestRunner.main(TestRunner.java:167)
+</pre></div></td>
+<td>463</td>
+<td>com.mop.qa.test.regression.Test_AFL_Native_App_Regression@3f200884</td></tr>
+</table><p>
+</body>
+</html>

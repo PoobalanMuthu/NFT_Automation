@@ -1,0 +1,581 @@
+[ {
+  "title" : "AFL.TV",
+  "matchId" : null,
+  "homeTeam" : null,
+  "awayTeam" : null,
+  "videoStream" : {
+    "customAttributes" : [ {
+      "attrName" : "ooyala embed code",
+      "attrValue" : "k3aWZwaDE60f5lhox8hh66LGoanIkjnu",
+      "mediaId" : "dddac8a07191b310VgnVCM200000986bb70a____",
+      "attributeId" : "0138b78ee6f6c310VgnVCM200000986bb70a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "AFL Live Video",
+      "attrValue" : "AFL Live Video",
+      "mediaId" : "dddac8a07191b310VgnVCM200000986bb70a____",
+      "attributeId" : "eddac8a07191b310VgnVCM200000986bb70a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "hevcEmbedCode",
+      "attrValue" : "w5aWZwaDE62AipbOCW38PfTc9lLLN-Dz",
+      "mediaId" : "dddac8a07191b310VgnVCM200000986bb70a____",
+      "attributeId" : "c3dcf6295e142610VgnVCM200000af19030a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "embedCode-tv-avc",
+      "attrValue" : "83ZDR4ZjE6KuXiwCAnmVChu_l1ZNtzk6",
+      "mediaId" : "dddac8a07191b310VgnVCM200000986bb70a____",
+      "attributeId" : "0cebd25715235610VgnVCM100000ac05030a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "embedCode-tv-hevc",
+      "attrValue" : "M2cGx4ZjE6a27Jd_2vx_AON7oyXfKwI9",
+      "mediaId" : "dddac8a07191b310VgnVCM200000986bb70a____",
+      "attributeId" : "fbebd25715235610VgnVCM100000ac05030a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "DRM",
+      "attrValue" : "true",
+      "mediaId" : "dddac8a07191b310VgnVCM200000986bb70a____",
+      "attributeId" : "502e26c64b279610VgnVCM2000002d2dcb0a____",
+      "attrKey" : null,
+      "guid" : null
+    } ],
+    "title" : "AFL.TV",
+    "streamId" : "footyTV",
+    "entitlement" : "BPS_MOB_AFL_VOD",
+    "thumbnailURL" : "https://s.build001.testafl.com/staticfile/AFL Tenant/AFL/Files/Images/AFL-TV.JPG",
+    "sizeRestricted" : true
+  },
+  "auxiliaryVideoStreams" : null,
+  "audioStreams" : null
+}, {
+  "title" : "AFL Live 1 - Fox Sports 1",
+  "matchId" : null,
+  "homeTeam" : null,
+  "awayTeam" : null,
+  "videoStream" : {
+    "customAttributes" : [ {
+      "attrName" : "ooyala embed code",
+      "attrValue" : "5odDk5dDqzHYv6h0mY8zuRioia51e51p",
+      "mediaId" : "8755bae013f75310VgnVCM10000085fea8c0____",
+      "attributeId" : "042424e3163dd310VgnVCM100000976bb70a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "DRM",
+      "attrValue" : "false",
+      "mediaId" : "8755bae013f75310VgnVCM10000085fea8c0____",
+      "attributeId" : "238938384f389610VgnVCM2000002d2dcb0a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "AFL Live Video",
+      "attrValue" : "AFL Live Video",
+      "mediaId" : "8755bae013f75310VgnVCM10000085fea8c0____",
+      "attributeId" : "9e0d67a40ff79610VgnVCM1000009019cb0a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "hevcEmbedCode",
+      "attrValue" : "k5OWVlZTE636YU-qMopDUz_xZVa0co41",
+      "mediaId" : "8755bae013f75310VgnVCM10000085fea8c0____",
+      "attributeId" : "ae0d67a40ff79610VgnVCM1000009019cb0a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "Event Type",
+      "attrValue" : "Adhoc Event",
+      "mediaId" : "8755bae013f75310VgnVCM10000085fea8c0____",
+      "attributeId" : "be0d67a40ff79610VgnVCM1000009019cb0a____",
+      "attrKey" : null,
+      "guid" : null
+    } ],
+    "title" : "AFL Live 1 - Fox Sports 1",
+    "streamId" : "386793",
+    "entitlement" : null,
+    "thumbnailURL" : null,
+    "sizeRestricted" : false
+  },
+  "auxiliaryVideoStreams" : null,
+  "audioStreams" : null
+}, {
+  "title" : "AFL Live 3 - Fox Footy DRM",
+  "matchId" : null,
+  "homeTeam" : null,
+  "awayTeam" : null,
+  "videoStream" : {
+    "customAttributes" : [ {
+      "attrName" : "Event Type",
+      "attrValue" : "Adhoc Event",
+      "mediaId" : "9865bae013f75310VgnVCM10000085fea8c0____",
+      "attributeId" : "1e87a9601a6d9610VgnVCM1000009019cb0a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "AFL Live Video",
+      "attrValue" : " AFL Live Video",
+      "mediaId" : "9865bae013f75310VgnVCM10000085fea8c0____",
+      "attributeId" : "2e87a9601a6d9610VgnVCM1000009019cb0a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "broadcastEmbedCode",
+      "attrValue" : "kzZzdnZzE6TAb3UFN40AVEr7nuD58Y_h",
+      "mediaId" : "9865bae013f75310VgnVCM10000085fea8c0____",
+      "attributeId" : "2ffdecc93fe79610VgnVCM2000002d2dcb0a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "broadcastStreamId",
+      "attrValue" : "urn:production:telstra:ProductionService3:SC3:UserService3",
+      "mediaId" : "9865bae013f75310VgnVCM10000085fea8c0____",
+      "attributeId" : "3ffdecc93fe79610VgnVCM2000002d2dcb0a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "broadcastServiceClass",
+      "attrValue" : "urn:oma:bcast:ext_bsc_embms:ServiceClass1:1.0",
+      "mediaId" : "9865bae013f75310VgnVCM10000085fea8c0____",
+      "attributeId" : "4ffdecc93fe79610VgnVCM2000002d2dcb0a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "ooyala embed code",
+      "attrValue" : "oxZzdnZzE6I3V39_P4Fc1-bERW8CJ4HR",
+      "mediaId" : "9865bae013f75310VgnVCM10000085fea8c0____",
+      "attributeId" : "5532a8550c639610VgnVCM1000009019cb0a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "hevcEmbedCode",
+      "attrValue" : "U1ZzdnZzE6QTSuHMmEtX-8pjRSpx84qt",
+      "mediaId" : "9865bae013f75310VgnVCM10000085fea8c0____",
+      "attributeId" : "6532a8550c639610VgnVCM1000009019cb0a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "DRM",
+      "attrValue" : "true",
+      "mediaId" : "9865bae013f75310VgnVCM10000085fea8c0____",
+      "attributeId" : "75b46dea6fd09610VgnVCM1000009019cb0a____",
+      "attrKey" : null,
+      "guid" : null
+    } ],
+    "title" : "AFL Live 3 - Fox Footy DRM",
+    "streamId" : "387991",
+    "entitlement" : "BPS_MOB_AFL_FOOTY_TV2",
+    "thumbnailURL" : null,
+    "sizeRestricted" : true
+  },
+  "auxiliaryVideoStreams" : null,
+  "audioStreams" : null
+}, {
+  "title" : "Radio 24",
+  "matchId" : null,
+  "homeTeam" : null,
+  "awayTeam" : null,
+  "videoStream" : null,
+  "auxiliaryVideoStreams" : null,
+  "audioStreams" : [ {
+    "name" : "AFL Radio 24 - Macquarie Sports Radio",
+    "id" : "AFL_RADIO24",
+    "streamURL" : "https://aflradioshlslive358.ngcdn.telstra.com/afllive/aflradio_24/playlist.m3u8",
+    "matchId" : null,
+    "startTime" : null,
+    "endTime" : null,
+    "liveNow" : true,
+    "customAttributes" : [ {
+      "attrName" : "ooyala embed code",
+      "attrValue" : "ZwZm55OTE6wbGMRrOHUqA61owFuAfyt3",
+      "mediaId" : "3331d2c751b7c510VgnVCM100000ac05030a____",
+      "attributeId" : "9300360042b7c510VgnVCM100000ac05030a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "Event Type",
+      "attrValue" : "Adhoc Event",
+      "mediaId" : "3331d2c751b7c510VgnVCM100000ac05030a____",
+      "attributeId" : "0bdcf69f4fe9a610VgnVCM2000004219cb0a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "AFL Live Audio",
+      "attrValue" : "Radio 24",
+      "mediaId" : "3331d2c751b7c510VgnVCM100000ac05030a____",
+      "attributeId" : "1bdcf69f4fe9a610VgnVCM2000004219cb0a____",
+      "attrKey" : null,
+      "guid" : null
+    } ],
+    "broadcastType" : null,
+    "format" : "HLS",
+    "station" : null,
+    "thumbnailURL" : "https://s.build001.testafl.com/staticfile/AFL Tenant/AFL/Radio Stations/Logos/Macquarie-Sports-Radio-FA.png"
+  } ]
+}, {
+  "title" : "Radio 25",
+  "matchId" : null,
+  "homeTeam" : null,
+  "awayTeam" : null,
+  "videoStream" : null,
+  "auxiliaryVideoStreams" : null,
+  "audioStreams" : [ {
+    "name" : "AFL Radio 25 - Spare",
+    "id" : "AFL_RADIO25",
+    "streamURL" : "https://aflradioshlslive358.ngcdn.telstra.com/afllive/aflradio_25/playlist.m3u8",
+    "matchId" : null,
+    "startTime" : null,
+    "endTime" : null,
+    "liveNow" : true,
+    "customAttributes" : [ {
+      "attrName" : "ooyala embed code",
+      "attrValue" : "VrZ255OTE6xJV5_vNmA2fKutSD3DApZL",
+      "mediaId" : "63d3d2c751b7c510VgnVCM100000ac05030a____",
+      "attributeId" : "25a0360042b7c510VgnVCM100000ac05030a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "Event Type",
+      "attrValue" : "Adhoc Event",
+      "mediaId" : "63d3d2c751b7c510VgnVCM100000ac05030a____",
+      "attributeId" : "788df69f4fe9a610VgnVCM2000004219cb0a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "AFL Live Audio",
+      "attrValue" : "Radio 25",
+      "mediaId" : "63d3d2c751b7c510VgnVCM100000ac05030a____",
+      "attributeId" : "888df69f4fe9a610VgnVCM2000004219cb0a____",
+      "attrKey" : null,
+      "guid" : null
+    } ],
+    "broadcastType" : null,
+    "format" : "HLS",
+    "station" : null,
+    "thumbnailURL" : null
+  } ]
+}, {
+  "title" : "St Kilda Vs Gold Coast Suns",
+  "matchId" : "CD_M20190140107",
+  "homeTeam" : {
+    "teamId" : "CD_T130",
+    "teamAbbr" : "STK",
+    "teamName" : "St Kilda",
+    "teamNickname" : "Saints"
+  },
+  "awayTeam" : {
+    "teamId" : "CD_T1000",
+    "teamAbbr" : "GCFC",
+    "teamName" : "Gold Coast Suns",
+    "teamNickname" : "Suns"
+  },
+  "videoStream" : {
+    "customAttributes" : [ {
+      "attrName" : "ooyala embed code",
+      "attrValue" : "g3ZzdnZzE65e2ugLv3mc33C47D_whoZe",
+      "mediaId" : "508d9ade6dc0d410VgnVCM100000976bb70a____",
+      "attributeId" : "808d9ade6dc0d410VgnVCM100000976bb70a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "hevcEmbedCode",
+      "attrValue" : "g5ZzdnZzE6c9XdcfNBN-5-M_WJh7DGg7",
+      "mediaId" : "508d9ade6dc0d410VgnVCM100000976bb70a____",
+      "attributeId" : "6908f6295e142610VgnVCM200000af19030a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "DRM",
+      "attrValue" : "true",
+      "mediaId" : "508d9ade6dc0d410VgnVCM100000976bb70a____",
+      "attributeId" : "74ea26c64b279610VgnVCM2000002d2dcb0a____",
+      "attrKey" : null,
+      "guid" : null
+    } ],
+    "title" : "St Kilda Vs Gold Coast Suns",
+    "streamId" : "386793",
+    "entitlement" : "BPS_MOB_AFL_FOOTY_TV2",
+    "thumbnailURL" : null,
+    "sizeRestricted" : true
+  },
+  "auxiliaryVideoStreams" : [ {
+    "customAttributes" : [ {
+      "attrName" : "AFL Live Tracker",
+      "attrValue" : "AFL Live Tracker",
+      "mediaId" : "3237eb0da6a4e510VgnVCM200000af19030a____",
+      "attributeId" : "7237eb0da6a4e510VgnVCM200000af19030a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "ooyala embed code",
+      "attrValue" : "Bod3FlYzE6sAqMMzg2AC8ZVETKeDwDvM",
+      "mediaId" : "3237eb0da6a4e510VgnVCM200000af19030a____",
+      "attributeId" : "6237eb0da6a4e510VgnVCM200000af19030a____",
+      "attrKey" : null,
+      "guid" : null
+    } ],
+    "title" : "St Kilda Vs Gold Coast Suns",
+    "streamId" : "AFL Tracker Birds Eye Live Video",
+    "entitlement" : "BPS_MOB_AFL_FOOTY_TV3",
+    "thumbnailURL" : null,
+    "sizeRestricted" : true
+  } ],
+  "audioStreams" : [ {
+    "name" : "k-rock",
+    "id" : "AFL_RADIO25",
+    "streamURL" : "https://aflradioshlslive358.ngcdn.telstra.com/afllive/aflradio_25/playlist.m3u8",
+    "matchId" : null,
+    "startTime" : "2019-05-01T14:00:00.000+0000",
+    "endTime" : "2019-05-30T14:00:00.000+0000",
+    "liveNow" : true,
+    "customAttributes" : [ {
+      "attrName" : "ooyala embed code",
+      "attrValue" : "VrZ255OTE6xJV5_vNmA2fKutSD3DApZL",
+      "mediaId" : "63d3d2c751b7c510VgnVCM100000ac05030a____",
+      "attributeId" : "25a0360042b7c510VgnVCM100000ac05030a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "Event Type",
+      "attrValue" : "Adhoc Event",
+      "mediaId" : "63d3d2c751b7c510VgnVCM100000ac05030a____",
+      "attributeId" : "788df69f4fe9a610VgnVCM2000004219cb0a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "AFL Live Audio",
+      "attrValue" : "Radio 25",
+      "mediaId" : "63d3d2c751b7c510VgnVCM100000ac05030a____",
+      "attributeId" : "888df69f4fe9a610VgnVCM2000004219cb0a____",
+      "attrKey" : null,
+      "guid" : null
+    } ],
+    "broadcastType" : null,
+    "format" : "HLS",
+    "station" : null,
+    "thumbnailURL" : null
+  }, {
+    "name" : "macquarie",
+    "id" : "AFL_RADIO24",
+    "streamURL" : "https://aflradioshlslive358.ngcdn.telstra.com/afllive/aflradio_24/playlist.m3u8",
+    "matchId" : null,
+    "startTime" : "2019-04-30T14:00:00.000+0000",
+    "endTime" : "2019-06-27T14:00:00.000+0000",
+    "liveNow" : true,
+    "customAttributes" : [ {
+      "attrName" : "ooyala embed code",
+      "attrValue" : "ZwZm55OTE6wbGMRrOHUqA61owFuAfyt3",
+      "mediaId" : "3331d2c751b7c510VgnVCM100000ac05030a____",
+      "attributeId" : "9300360042b7c510VgnVCM100000ac05030a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "Event Type",
+      "attrValue" : "Adhoc Event",
+      "mediaId" : "3331d2c751b7c510VgnVCM100000ac05030a____",
+      "attributeId" : "0bdcf69f4fe9a610VgnVCM2000004219cb0a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "AFL Live Audio",
+      "attrValue" : "Radio 24",
+      "mediaId" : "3331d2c751b7c510VgnVCM100000ac05030a____",
+      "attributeId" : "1bdcf69f4fe9a610VgnVCM2000004219cb0a____",
+      "attrKey" : null,
+      "guid" : null
+    } ],
+    "broadcastType" : null,
+    "format" : "HLS",
+    "station" : null,
+    "thumbnailURL" : "https://s.build001.testafl.com/staticfile/AFL Tenant/AFL/Radio Stations/Logos/Macquarie-Sports-Radio-FA.png"
+  }, {
+    "name" : "sen",
+    "id" : "AFL_RADIO1",
+    "streamURL" : "https://aflliveradioshls349.ngcdn.telstra.com/afllive/aflradio_1/playlist.m3u8",
+    "matchId" : null,
+    "startTime" : "2019-04-07T14:00:00.000+0000",
+    "endTime" : "2019-05-30T13:15:00.000+0000",
+    "liveNow" : true,
+    "customAttributes" : [ {
+      "attrName" : "ooyala embed code",
+      "attrValue" : "d3bG1pcTrCbSSI0ZYQDvf24gGiXFxLqv",
+      "mediaId" : "8a03871576ccc310VgnVCM100000976bb70a____",
+      "attributeId" : "170931d009d8e410VgnVCM100000976bb70a____",
+      "attrKey" : null,
+      "guid" : null
+    } ],
+    "broadcastType" : null,
+    "format" : "HLS",
+    "station" : null,
+    "thumbnailURL" : "https://s.build001.testafl.com/staticfile/AFL Tenant/AFL/Radio Stations/Logos/SEN160x160.png"
+  } ]
+}, {
+  "title" : "GWS Giants Vs Essendon",
+  "matchId" : "CD_M20190140108",
+  "homeTeam" : {
+    "teamId" : "CD_T1010",
+    "teamAbbr" : "GWS",
+    "teamName" : "GWS Giants",
+    "teamNickname" : "Giants"
+  },
+  "awayTeam" : {
+    "teamId" : "CD_T50",
+    "teamAbbr" : "ESS",
+    "teamName" : "Essendon",
+    "teamNickname" : "Bombers"
+  },
+  "videoStream" : {
+    "customAttributes" : [ {
+      "attrName" : "state-VIC",
+      "attrValue" : "ZhZjdnZzE6DVv4oa092fUnkprm8I5k3A",
+      "mediaId" : "3b9ab056c300a310VgnVCM100000816aa8c0____",
+      "attributeId" : "164abd860219d310VgnVCM100000976bb70a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "state-WA",
+      "attrValue" : "RzZjdnZzE6mWyWeZLvG8mSAFLt2UlPZ7",
+      "mediaId" : "3b9ab056c300a310VgnVCM100000816aa8c0____",
+      "attributeId" : "264abd860219d310VgnVCM100000976bb70a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "state-SA",
+      "attrValue" : "lwZTdnZzE6G6NHGH2yxmtDXkUKYBKqdw",
+      "mediaId" : "3b9ab056c300a310VgnVCM100000816aa8c0____",
+      "attributeId" : "364abd860219d310VgnVCM100000976bb70a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "state-NSW",
+      "attrValue" : "l1ZDdnZzE6uTlphcT8VdTBP6SoOold5C",
+      "mediaId" : "3b9ab056c300a310VgnVCM100000816aa8c0____",
+      "attributeId" : "464abd860219d310VgnVCM100000976bb70a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "state-QLD",
+      "attrValue" : "01ZTdnZzE67z6A0W2l1nh_r5nSGd4k-n",
+      "mediaId" : "3b9ab056c300a310VgnVCM100000816aa8c0____",
+      "attributeId" : "564abd860219d310VgnVCM100000976bb70a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "hevcEmbedCode-state-VIC",
+      "attrValue" : "tvZjdnZzE6BI1-8TN-Fax_NTrplVbWFZ",
+      "mediaId" : "3b9ab056c300a310VgnVCM100000816aa8c0____",
+      "attributeId" : "4f2fbf6b95f52610VgnVCM200000af19030a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "hevcEmbedCode-state-WA",
+      "attrValue" : "l5ZjdnZzE6Zw_-Yh2UoPMW2Wr1gKyINj",
+      "mediaId" : "3b9ab056c300a310VgnVCM100000816aa8c0____",
+      "attributeId" : "5f2fbf6b95f52610VgnVCM200000af19030a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "hevcEmbedCode-state-NSW",
+      "attrValue" : "cxZTdnZzE6yCueDL6GHOTVqD7Pz1ikAV",
+      "mediaId" : "3b9ab056c300a310VgnVCM100000816aa8c0____",
+      "attributeId" : "6f2fbf6b95f52610VgnVCM200000af19030a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "hevcEmbedCode-state-QLD",
+      "attrValue" : "NqZTdnZzE6He467VJbbAGf6z7WGXb9lw",
+      "mediaId" : "3b9ab056c300a310VgnVCM100000816aa8c0____",
+      "attributeId" : "7f2fbf6b95f52610VgnVCM200000af19030a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "hevcEmbedCode-state-SA",
+      "attrValue" : "IwZjdnZzE6xDMiyFfad6B90D1qdJXdKB",
+      "mediaId" : "3b9ab056c300a310VgnVCM100000816aa8c0____",
+      "attributeId" : "8f2fbf6b95f52610VgnVCM200000af19030a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "DRM",
+      "attrValue" : "true",
+      "mediaId" : "3b9ab056c300a310VgnVCM100000816aa8c0____",
+      "attributeId" : "742d26c64b279610VgnVCM2000002d2dcb0a____",
+      "attrKey" : null,
+      "guid" : null
+    } ],
+    "title" : "GWS Giants Vs Essendon",
+    "streamId" : "AFLLive3",
+    "entitlement" : "BPS_MOB_AFL_FOOTY_TV3",
+    "thumbnailURL" : null,
+    "sizeRestricted" : true
+  },
+  "auxiliaryVideoStreams" : [ {
+    "customAttributes" : [ {
+      "attrName" : "AFL Live Tracker",
+      "attrValue" : "AFL Live Tracker",
+      "mediaId" : "1390a01305a4e510VgnVCM200000af19030a____",
+      "attributeId" : "4390a01305a4e510VgnVCM200000af19030a____",
+      "attrKey" : null,
+      "guid" : null
+    }, {
+      "attrName" : "ooyala embed code",
+      "attrValue" : "01dXFlYzE6dmpCDJrMkwD6ulOjWYsQ7G",
+      "mediaId" : "1390a01305a4e510VgnVCM200000af19030a____",
+      "attributeId" : "5390a01305a4e510VgnVCM200000af19030a____",
+      "attrKey" : null,
+      "guid" : null
+    } ],
+    "title" : "GWS Giants Vs Essendon",
+    "streamId" : "AFL Tracker Birds Eye Live Video",
+    "entitlement" : "BPS_MOB_AFL_FOOTY_TV3",
+    "thumbnailURL" : null,
+    "sizeRestricted" : true
+  } ],
+  "audioStreams" : [ {
+    "name" : "sen",
+    "id" : "AFL_RADIO1",
+    "streamURL" : "https://aflliveradioshls349.ngcdn.telstra.com/afllive/aflradio_1/playlist.m3u8",
+    "matchId" : null,
+    "startTime" : "2019-04-01T13:00:00.000+0000",
+    "endTime" : "2019-05-30T14:00:00.000+0000",
+    "liveNow" : true,
+    "customAttributes" : [ {
+      "attrName" : "ooyala embed code",
+      "attrValue" : "d3bG1pcTrCbSSI0ZYQDvf24gGiXFxLqv",
+      "mediaId" : "8a03871576ccc310VgnVCM100000976bb70a____",
+      "attributeId" : "170931d009d8e410VgnVCM100000976bb70a____",
+      "attrKey" : null,
+      "guid" : null
+    } ],
+    "broadcastType" : null,
+    "format" : "HLS",
+    "station" : null,
+    "thumbnailURL" : "https://s.build001.testafl.com/staticfile/AFL Tenant/AFL/Radio Stations/Logos/SEN160x160.png"
+  }, {
+    "name" : "triple-m",
+    "id" : "AFL_RADIO12",
+    "streamURL" : "https://aflliveradioshls349.ngcdn.telstra.com/afllive/aflradio_12/playlist.m3u8",
+    "matchId" : null,
+    "startTime" : "2019-03-24T03:50:00.000+0000",
+    "endTime" : "2019-05-22T08:00:00.000+0000",
+    "liveNow" : true,
+    "customAttributes" : [ {
+      "attrName" : "ooyala embed code",
+      "attrValue" : "BoYW9pcTqLJ1WVcnvpkalGyoPDvWjmaC",
+      "mediaId" : "756069973dccc310VgnVCM100000976bb70a____",
+      "attributeId" : "6a4931d009d8e410VgnVCM100000976bb70a____",
+      "attrKey" : null,
+      "guid" : null
+    } ],
+    "broadcastType" : null,
+    "format" : "HLS",
+    "station" : null,
+    "thumbnailURL" : "https://s.build001.testafl.com/staticfile/AFL Tenant/AFL/Radio Stations/Logos/triplem-rocks-footy-logo-160x160.png"
+  } ]
+} ]

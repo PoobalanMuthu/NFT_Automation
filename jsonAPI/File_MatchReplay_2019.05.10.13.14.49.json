@@ -1,0 +1,290 @@
+{
+  "categories" : [ {
+    "category" : "Match Replays",
+    "title" : "Match Replays",
+    "videos" : [ {
+      "title" : "R2: Suns v Dockers Q4",
+      "description" : "Watch the full replay of the fourth quarter",
+      "externalId" : "984038",
+      "publisher" : "AFLFLM",
+      "customAttributes" : [ {
+        "attrName" : "ooyala published",
+        "attrValue" : "PublishedLocally"
+      }, {
+        "attrName" : "ooyala embed code",
+        "attrValue" : "94N2VqaDE6QgWfjqVF46efJN1YFchr56"
+      }, {
+        "attrName" : "durationSeconds",
+        "attrValue" : "1749"
+      }, {
+        "attrName" : "Quarter",
+        "attrValue" : "Q4"
+      }, {
+        "attrName" : "AFLClubExclusive",
+        "attrValue" : "No"
+      } ],
+      "programType" : "Match Replays",
+      "programCategory" : "Match Replays",
+      "thumbnailPath" : "https://s.build001.testafl.com/staticfile/AFL Tenant/Media/Videos/Thumbnails/2019/Apr/984038_thumb_326x184.jpg",
+      "entitlement" : "BPS_MOB_AFL_VOD",
+      "customPublishDate" : "2019-03-31T20:00:04.000+0000",
+      "publishDate" : "2019-03-31T20:00:04.000+0000",
+      "sizeRestricted" : false
+    }, {
+      "title" : "R2: Suns v Dockers Q3",
+      "description" : "Watch the full replay of the third quarter",
+      "externalId" : "984036",
+      "publisher" : "AFLFLM",
+      "customAttributes" : [ {
+        "attrName" : "Quarter",
+        "attrValue" : "Q3"
+      }, {
+        "attrName" : "AFLClubExclusive",
+        "attrValue" : "No"
+      }, {
+        "attrName" : "ooyala published",
+        "attrValue" : "PublishedLocally"
+      }, {
+        "attrName" : "ooyala embed code",
+        "attrValue" : "hyeWRqaDE6drbRGJDaz-mwi-VPxjgawT"
+      }, {
+        "attrName" : "durationSeconds",
+        "attrValue" : "1820"
+      } ],
+      "programType" : "Match Replays",
+      "programCategory" : "Match Replays",
+      "thumbnailPath" : "https://s.build001.testafl.com/staticfile/AFL Tenant/Media/Videos/Thumbnails/2019/Apr/984036_thumb_326x184.jpg",
+      "entitlement" : "BPS_MOB_AFL_VOD",
+      "customPublishDate" : "2019-03-31T20:00:03.000+0000",
+      "publishDate" : "2019-03-31T20:00:03.000+0000",
+      "sizeRestricted" : false
+    }, {
+      "title" : "R2: Suns v Dockers Q2",
+      "description" : "Watch the full replay of the second quarter",
+      "externalId" : "984034",
+      "publisher" : "AFLFLM",
+      "customAttributes" : [ {
+        "attrName" : "AFLClubExclusive",
+        "attrValue" : "No"
+      }, {
+        "attrName" : "ooyala published",
+        "attrValue" : "PublishedLocally"
+      }, {
+        "attrName" : "ooyala embed code",
+        "attrValue" : "l3eGRqaDE6VIHcNddMDAl1NteIH6hLhJ"
+      }, {
+        "attrName" : "durationSeconds",
+        "attrValue" : "1743"
+      }, {
+        "attrName" : "Quarter",
+        "attrValue" : "Q2"
+      } ],
+      "programType" : "Match Replays",
+      "programCategory" : "Match Replays",
+      "thumbnailPath" : "https://s.build001.testafl.com/staticfile/AFL Tenant/Media/Videos/Thumbnails/2019/Apr/984034_thumb_326x184.jpg",
+      "entitlement" : "BPS_MOB_AFL_VOD",
+      "customPublishDate" : "2019-03-31T20:00:02.000+0000",
+      "publishDate" : "2019-03-31T20:00:02.000+0000",
+      "sizeRestricted" : false
+    }, {
+      "title" : "R2: Hawks v Bulldogs Q4",
+      "description" : "Watch the full replay of the fourth quarter",
+      "externalId" : "984054",
+      "publisher" : "AFLFLM",
+      "customAttributes" : [ {
+        "attrName" : "ooyala published",
+        "attrValue" : "PublishedLocally"
+      }, {
+        "attrName" : "ooyala embed code",
+        "attrValue" : "tmd2RqaDE6zRH0xkjBih3J3gooM1X1be"
+      }, {
+        "attrName" : "durationSeconds",
+        "attrValue" : "1986"
+      }, {
+        "attrName" : "Quarter",
+        "attrValue" : "Q4"
+      }, {
+        "attrName" : "AFLClubExclusive",
+        "attrValue" : "No"
+      } ],
+      "programType" : "Match Replays",
+      "programCategory" : "Match Replays",
+      "thumbnailPath" : "https://s.build001.testafl.com/staticfile/AFL Tenant/Media/Videos/Thumbnails/2019/Apr/984054_thumb_326x184.jpg",
+      "entitlement" : "BPS_MOB_AFL_VOD",
+      "customPublishDate" : "2019-03-31T19:00:04.000+0000",
+      "publishDate" : "2019-03-31T19:00:04.000+0000",
+      "sizeRestricted" : false
+    }, {
+      "title" : "R2: Hawks v Bulldogs Q3",
+      "description" : "Watch the full replay of the third quarter",
+      "externalId" : "984052",
+      "publisher" : "AFLFLM",
+      "customAttributes" : [ {
+        "attrName" : "AFLClubExclusive",
+        "attrValue" : "No"
+      }, {
+        "attrName" : "ooyala published",
+        "attrValue" : "PublishedLocally"
+      }, {
+        "attrName" : "ooyala embed code",
+        "attrValue" : "NpdGRqaDE62dR_oGOI3O6Td-zWMz3wpB"
+      }, {
+        "attrName" : "durationSeconds",
+        "attrValue" : "1801"
+      }, {
+        "attrName" : "Quarter",
+        "attrValue" : "Q3"
+      } ],
+      "programType" : "Match Replays",
+      "programCategory" : "Match Replays",
+      "thumbnailPath" : "https://s.build001.testafl.com/staticfile/AFL Tenant/Media/Videos/Thumbnails/2019/Apr/984052_thumb_326x184.jpg",
+      "entitlement" : "BPS_MOB_AFL_VOD",
+      "customPublishDate" : "2019-03-31T19:00:03.000+0000",
+      "publishDate" : "2019-03-31T19:00:03.000+0000",
+      "sizeRestricted" : false
+    }, {
+      "title" : "R2: Hawks v Bulldogs Q2",
+      "description" : "Watch the full replay of the second quarter",
+      "externalId" : "984045",
+      "publisher" : "AFLFLM",
+      "customAttributes" : [ {
+        "attrName" : "ooyala published",
+        "attrValue" : "PublishedLocally"
+      }, {
+        "attrName" : "ooyala embed code",
+        "attrValue" : "hpcGRqaDE6SI9jW6MR89qFkfdZgeYTAt"
+      }, {
+        "attrName" : "durationSeconds",
+        "attrValue" : "1738"
+      }, {
+        "attrName" : "Quarter",
+        "attrValue" : "Q2"
+      }, {
+        "attrName" : "AFLClubExclusive",
+        "attrValue" : "No"
+      } ],
+      "programType" : "Match Replays",
+      "programCategory" : "Match Replays",
+      "thumbnailPath" : "https://s.build001.testafl.com/staticfile/AFL Tenant/Media/Videos/Thumbnails/2019/Apr/984045_thumb_326x184.jpg",
+      "entitlement" : "BPS_MOB_AFL_VOD",
+      "customPublishDate" : "2019-03-31T19:00:02.000+0000",
+      "publishDate" : "2019-03-31T19:00:02.000+0000",
+      "sizeRestricted" : false
+    }, {
+      "title" : "R2: Hawks v Bulldogs Q1",
+      "description" : "Watch the full replay of the first quarter",
+      "externalId" : "984028",
+      "publisher" : "AFLFLM",
+      "customAttributes" : [ {
+        "attrName" : "Quarter",
+        "attrValue" : "Q1"
+      }, {
+        "attrName" : "AFLClubExclusive",
+        "attrValue" : "No"
+      }, {
+        "attrName" : "ooyala published",
+        "attrValue" : "PublishedLocally"
+      }, {
+        "attrName" : "ooyala embed code",
+        "attrValue" : "dqbWRqaDE6pgZ_TvZfxJ3zYtMnB1w2sh"
+      }, {
+        "attrName" : "durationSeconds",
+        "attrValue" : "1824"
+      } ],
+      "programType" : "Match Replays",
+      "programCategory" : "Match Replays",
+      "thumbnailPath" : "https://s.build001.testafl.com/staticfile/AFL Tenant/Media/Videos/Thumbnails/2019/Apr/984028_thumb_326x184.jpg",
+      "entitlement" : "BPS_MOB_AFL_VOD",
+      "customPublishDate" : "2019-03-31T19:00:01.000+0000",
+      "publishDate" : "2019-03-31T19:00:01.000+0000",
+      "sizeRestricted" : false
+    }, {
+      "title" : "R2: Kangaroos v Lions Q4",
+      "description" : "Watch the full replay of the fourth quarter",
+      "externalId" : "984026",
+      "publisher" : "AFLFLM",
+      "customAttributes" : [ {
+        "attrName" : "ooyala published",
+        "attrValue" : "PublishedLocally"
+      }, {
+        "attrName" : "ooyala embed code",
+        "attrValue" : "gzbWRqaDE6lJ6i3oib-ZXKOCNbo0Mscw"
+      }, {
+        "attrName" : "durationSeconds",
+        "attrValue" : "1981"
+      }, {
+        "attrName" : "Quarter",
+        "attrValue" : "Q4"
+      }, {
+        "attrName" : "AFLClubExclusive",
+        "attrValue" : "No"
+      } ],
+      "programType" : "Match Replays",
+      "programCategory" : "Match Replays",
+      "thumbnailPath" : "https://s.build001.testafl.com/staticfile/AFL Tenant/Media/Videos/Thumbnails/2019/Apr/984026_thumb_326x184.jpg",
+      "entitlement" : "BPS_MOB_AFL_VOD",
+      "customPublishDate" : "2019-03-31T17:00:04.000+0000",
+      "publishDate" : "2019-03-31T17:00:04.000+0000",
+      "sizeRestricted" : false
+    }, {
+      "title" : "R2: Kangaroos v Lions Q3",
+      "description" : "Watch the full replay of the third quarter",
+      "externalId" : "984019",
+      "publisher" : "AFLFLM",
+      "customAttributes" : [ {
+        "attrName" : "ooyala published",
+        "attrValue" : "PublishedLocally"
+      }, {
+        "attrName" : "ooyala embed code",
+        "attrValue" : "Y3Z2RqaDE6xQ8ayMD5h8e9_35Td7gz4X"
+      }, {
+        "attrName" : "durationSeconds",
+        "attrValue" : "2032"
+      }, {
+        "attrName" : "Quarter",
+        "attrValue" : "Q3"
+      }, {
+        "attrName" : "AFLClubExclusive",
+        "attrValue" : "No"
+      } ],
+      "programType" : "Match Replays",
+      "programCategory" : "Match Replays",
+      "thumbnailPath" : "https://s.build001.testafl.com/staticfile/AFL Tenant/Media/Videos/Thumbnails/2019/Apr/984019_thumb_326x184.jpg",
+      "entitlement" : "BPS_MOB_AFL_VOD",
+      "customPublishDate" : "2019-03-31T17:00:03.000+0000",
+      "publishDate" : "2019-03-31T17:00:03.000+0000",
+      "sizeRestricted" : false
+    }, {
+      "title" : "R2: Kangaroos v Lions Q2",
+      "description" : "Watch the full replay of the second quarter",
+      "externalId" : "984012",
+      "publisher" : "AFLFLM",
+      "customAttributes" : [ {
+        "attrName" : "ooyala embed code",
+        "attrValue" : "N0Y2RqaDE6h_2Pnj3RxMXTRvZ_nPLvel"
+      }, {
+        "attrName" : "durationSeconds",
+        "attrValue" : "1957"
+      }, {
+        "attrName" : "Quarter",
+        "attrValue" : "Q2"
+      }, {
+        "attrName" : "AFLClubExclusive",
+        "attrValue" : "No"
+      }, {
+        "attrName" : "ooyala published",
+        "attrValue" : "PublishedLocally"
+      } ],
+      "programType" : "Match Replays",
+      "programCategory" : "Match Replays",
+      "thumbnailPath" : "https://s.build001.testafl.com/staticfile/AFL Tenant/Media/Videos/Thumbnails/2019/Apr/984012_thumb_326x184.jpg",
+      "entitlement" : "BPS_MOB_AFL_VOD",
+      "customPublishDate" : "2019-03-31T17:00:02.000+0000",
+      "publishDate" : "2019-03-31T17:00:02.000+0000",
+      "sizeRestricted" : false
+    } ],
+    "pageNumber" : 1,
+    "pageSize" : 10,
+    "moreResults" : true
+  } ]
+}
